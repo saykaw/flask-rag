@@ -1,0 +1,8 @@
+flask
+langchain
+langchain_mistralai
+langchain_community
+PyPDF2
+mysql-connector-python
+langchain_core
+sentence-transformers
